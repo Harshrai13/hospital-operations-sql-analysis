@@ -1,0 +1,11 @@
+treatment_id,patient_id,department,cost,outcome
+101,1,Endocrinology,5000,Successful
+102,2,Cardiology,15000,Successful
+103,3,Orthopedics,8000,Successful
+104,4,General Medicine,2000,Successful
+105,5,Cardiology,12000,Unsuccessful
+106,6,Endocrinology,5500,Successful
+107,7,Cardiology,20000,Successful
+108,8,Orthopedics,9000,Successful
+109,9,General Medicine,2500,Successful
+110,10,Cardiology,14000,Successful
