@@ -1,0 +1,11 @@
+patient_id,age,gender,disease,admission_date,discharge_date
+1,45,Male,Diabetes,2024-01-02,2024-01-07
+2,60,Female,Heart Disease,2024-01-03,2024-01-12
+3,30,Male,Fracture,2024-01-05,2024-01-10
+4,25,Female,Flu,2024-01-06,2024-01-08
+5,50,Male,Hypertension,2024-01-08,2024-01-15
+6,40,Female,Diabetes,2024-01-10,2024-01-14
+7,70,Male,Heart Disease,2024-01-12,2024-01-20
+8,35,Female,Fracture,2024-01-15,2024-01-18
+9,28,Male,Flu,2024-01-17,2024-01-19
+10,55,Female,Hypertension,2024-01-18,2024-01-25
